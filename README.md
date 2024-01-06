@@ -1,3 +1,7 @@
+# Netflix_Clone With Next.js
+
+![image](https://github.com/HarishRolla/Netflix_clone/assets/100654817/ad53a04c-60d3-4da8-a0f0-b73bdb5d8c0b)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
